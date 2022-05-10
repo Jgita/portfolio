@@ -1,0 +1,51 @@
+// .award-container {
+//     display: flex;
+//     margin-top: 64px;
+//     flex-wrap: wrap;
+//     width: 100%;
+// }
+
+.award-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px;
+    height: calc(100vh - 118px);
+}
+
+// .footer{
+//     display: flex;
+//     margin-left: 47px;
+//     padding-top: 7px;
+// }
+
+.footer{
+    display: flex;
+    margin-left: 48px;
+    padding-top: 7px;
+    color: gray;
+    font-size: 14px;
+}
+
+p {
+    margin-left: 8px;
+    padding-top: 3px;
+}
+
+// .card-content{
+//     display: flex;
+//     margin-left: 8px;
+// }
+.card-content{
+    margin-left: 8px;
+    color: gray;
+}
+
+.card-header{
+    display: flex;
+}
+
+.mat-card-subtitle {
+    color: #3f0e92;
+}

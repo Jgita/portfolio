@@ -1,0 +1,49 @@
+// .education-container{
+//     display: flex;
+//     margin-top: 64px;
+//     flex-wrap: wrap;
+// }
+
+.education-container{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    padding: 10px;
+    height: calc(100vh - 118px);
+}
+
+// .footer{
+//     display: flex;
+//     margin-left: 47px;
+//     padding-top: 7px;
+// }
+
+.footer{
+    display: flex;
+    margin-left: 50px;
+    padding-top: 7px;
+    color: gray;
+    font-size: 14px;
+}
+
+.year {
+    padding-top: 4px;
+    padding-left: 6px;
+}
+
+.card-content{
+    margin-left: 11px;
+    color: gray;
+}
+
+.card-header{
+    display: flex;
+}
+
+.title{
+    margin-left: 11px;
+}
+
+.mat-card-subtitle {
+    color: #3f0e92;
+}

@@ -1,0 +1,47 @@
+<!-- <div class="award-container">
+    <div *ngFor="let item of awards">
+        <app-common-card [size]="'medium'">
+            <div card-header>
+                <mat-card-title>{{item.awardName}}</mat-card-title>
+                <mat-card-subtitle>{{item.relatedCompanyName}}</mat-card-subtitle>
+            </div>
+            <div card-content>
+                <div class="card-content">
+                    <ul>
+                        <li>{{item.description}}</li>
+                    </ul>
+                </div>
+            </div>
+            <div card-footer>
+                <div class="footer">
+                    <mat-icon>calendar_today</mat-icon>
+                    <p>{{item.year}} | {{item.role}}</p>
+                </div>
+            </div>
+        </app-common-card>
+    </div>
+</div> -->
+
+<div class="award-container">
+    <div *ngFor="let item of awards">
+        <app-common-card [size]="'medium'">
+            <div card-header>
+                <mat-card-title>{{item.awardName}}</mat-card-title>
+                <mat-card-subtitle>{{item.relatedCompanyName}}</mat-card-subtitle>
+            </div>
+            <div card-content>
+                <div class="card-content">
+                    <ul>
+                        <li>{{item.description}}</li>
+                    </ul>
+                </div>
+            </div>
+            <div card-footer>
+                <div class="footer">
+                    <mat-icon>calendar_today</mat-icon>
+                    <p>{{item.year}} | {{item.role}}</p>
+                </div>
+            </div>
+        </app-common-card>
+    </div>
+</div>

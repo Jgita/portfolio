@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "../node_modules/@syncfusion/ej2-base/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-buttons/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-navigations/styles/material.css";
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.e-btn-icon{
+    color: #673AB7 !important;
+}
+
+// .e-btn{
+//     background-color: #9D81D1 !important;
+// }
+
+.mat-h4, .mat-subheading-1, .mat-typography .mat-h4, .mat-typography .mat-subheading-1, .mat-typography h4 {
+    font: 400 15px/24px Roboto, "Helvetica Neue", sans-serif;
+    letter-spacing: normal;
+    margin: 0 0 6px;
+}
+
+.mat-typography p {
+    margin: 0 0 9px;
+}

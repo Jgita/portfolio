@@ -1,0 +1,194 @@
+
+
+{
+  "name": "Sangita Jadhav",
+  "role": "Software Developer",
+  "location": "Pune",
+  "greetings": "Hi",
+  "firstName": "I'm Sangita",
+  "speciality": "Frontend Developer",
+  "birhdate": "Born on the 2nd of July 1992",
+  "fullstop": ".",
+  "comma": ",",
+  "address": "I Live in the pune",
+  "aboutHeader": "My, Myself & I",
+  "aboutDescription1": "I’m Sangita Jadhav - Front-End Developer located in Pune. I have a serious passion for Angular and creating intuitive, dynamic user experiences.",
+  "aboutDescription2": "Well-organised person, problem solver, independent employee with high attention to detail. Fan of Music, outdoor activities, TV series, books and healthy life. I'm a foodie! I love hanging out with my friends.",
+  "aboutDescription3": "Interested in the entire frontend spectrum and working on ambitious projects with positive people.",
+  "resume": "Download my resume ",
+  "detailsText": "for more details.🙂",
+  "companyRole": "Senior Software Developer",
+  "skills": "'JavaScript', 'TypeScript', 'AngularJs', 'ES6 & ES7',  'GIT', 'CSS', 'SCSS', 'HTML', 'Bootstrap', 'Flexbox', 'Material Design', 'Ionic', 'PrimrNg', 'JSON', 'RXJS', 'Angular', 'i18n','Loadsh', 'Moment', 'NodeJs', 'NPM', 'YARN', 'Bable'",
+  "skillsPageHeader": "Skills & Experience",
+  "skillsDescription1": "Since beginning my journey as a Frontend developer nearly 5 years ago, I’ve done web projects start with AngularJS to Angular multiple versions.",
+  "skillsDescription2": "I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, Angular, building small and medium, large web apps, features, and coding.",
+  "skillsDescription3": "Visit my LinkedIn profile for more details.",
+
+  "workExp": [
+    {
+      "logo": "https://companiesmarketcap.com/img/company-logos/512/LTI.BO.png",
+      "companyName": "LTI - Larsen & Toubro Infotech",
+      "companyRole": "Senior Software Developer",
+      "technologies": "AngularJs, Angular, HTML, SCSS, Flexbox, Angular Material, Bootstrap",
+      "description": "Responsible for development of web platform. Responsible for handling the UI in Angular and Managing the api calls in .Net, NodeJS, Python",
+      "startDate": "February 2022 - Present",
+      "location": "Pune, Shivaji Nagar."
+    },
+    {
+      "logo": "https://www.iicmr.org/uploads/Company_photos/Harbinger_Group.png",
+      "companyName": "Harbinger Group",
+      "companyRole": "Associate Tech Lead",
+      "technologies": "AngularJs, Angular, HTML, SCSS, Flexbox, Angular Material, Bootstrap",
+      "description": "Responsible for development of web platform. Responsible for handling the UI in Angular and Managing the api calls in .Net, NodeJS, Python",
+      "startDate": "March 2017 - February 2022",
+      "location": "Pune, Hinjewadi Phase-1."
+    },
+    {
+      "logo": "https://edsurge.imgix.net/uploads/product/image/2820/Math_math_300px-1548889941.png?auto=compress%2Cformat&w=480&h=480&fit=crop",
+      "companyName": "Mathletics LLP",
+      "companyRole": "Software Developer",
+      "technologies": "AngularJs, Angular, HTML, SCSS, Flexbox, Angular Material, Bootstrap",
+      "description": "Responsible for development of web platform. Responsible for handling the UI in Angular and Managing the api calls in .Net, NodeJS, Python",
+      "startDate": "July 2015 - February 2017",
+      "location": "Pune, Nyati Group Yerwada."
+    }
+  ],
+  "education": [
+    {
+      "stream": "Master of Computer Science",
+      "universityName": "Savitribai Phule Pune University",
+      "passingYear": "2013 - 2015",
+      "collageName": "Fergusson College Pune",
+      "description": "Completed M.Sc. in Computer Science with 69%, 5.100 CGPA, 'O' Grade"
+    },
+    {
+      "stream": "Bachelor of Computer Science",
+      "universityName": "Savitribai Phule Pune University",
+      "passingYear": "2010 - 2013",
+      "collageName": "New Arts, Commerce and Science College, Parner",
+      "description": "Completed B.Sc. in Computer Science with 74% First Class with Distinction"
+    },
+    {
+      "stream": "Higher Secondary",
+      "universityName": "Pune Divisional Board",
+      "passingYear": "2008 - 2010",
+      "collageName": "New English School & Junior College, Parner",
+      "description": "Completed my high school with 57%."
+    },
+    {
+      "stream": "Secondary School",
+      "universityName": "Maharashtra State Board of Pune",
+      "passingYear": "2007 - 2008",
+      "collageName": "New English School & Junior College, Parner",
+      "description": "Completed my Secondary school with 76.76%."
+    }
+  ],
+  "projects": [
+    {
+      "projectName": "Middleware",
+      "startDate": "August 2021",
+      "endDate": "Jan 2022",
+      "teamSize": 6,
+      "technologiesAndTools": "Angular, HTML, CSS, Bootstarp, Visual studio code, Jira, Github, bit-bucket",
+      "projectDescription": "This is an application of to integrate with different LMS and ATS systems and bulk export of content metadata from DDI platform to workday",
+      "roleAndContribution": "Involved in Development, Task Analysis, Estimations and bug fixes, Arrange weekly show and tell sessions with client and suggest better options if needed on technical queries from client."
+    },
+    {
+      "projectName": "AT Simulation",
+      "startDate": "March 2021",
+      "endDate": "August 2021",
+      "teamSize": 10,
+      "technologiesAndTools": "Angular, HTML, CSS, Bootstarp, Visual studio code, Jira, Github, bit-bucket",
+      "projectDescription": "Mail Application like outlook which have Inbox, sent, deleted, draft folders new email Attachment, Multiple Email selection and multiple actions on that like delete emails, open email read email, highlighted agenda, notification, email count.",
+      "roleAndContribution": "Involved in Development, Responsible for managing a front end team dividing and creating tasks for each to achieve application deadlines., Involved in PR review and comments of team members, Closely work with UI/UX team to define business workflow with Adobe XD, Figma and Invision prototype designing software's., Arranging weekly show and tell sessions with clients, and suggesting better options if needed on technical queries from clients."
+    },
+    {
+      "projectName": "Leadr",
+      "startDate": "Nov 2020",
+      "endDate": "March 2021",
+      "teamSize": 15,
+      "technologiesAndTools": "Angular, HTML, CSS, Bootstrap, Visual studio code, Jira, Github, bit-bucket",
+      "projectDescription": "This is an application of people management tool that drives sustained and measurable employees’ growth.",
+      "roleAndContribution": "Daily Stand-up calls with client, explaining developed functionalities, complex bugs, plans and tasks, Involved in development of HTML with functionalities using Angular, Involved in PR review and comments, Involved in development of workflow design and make it robust in different time zone, Actively involved in status meeting and project grooming."
+    },
+    {
+      "projectName": "Cisive Insurance Domain",
+      "startDate": "Nov 2017",
+      "endDate": "Nov 2020",
+      "teamSize": 12,
+      "technologiesAndTools": "Angular, HTML, CSS, Bootstrap, Visual studio code, Jira, Github, SVN, bit-bucket",
+      "projectDescription": "This is an application which is mainly designed to cover vehicle insurance process online. The domain of this project is HR. This application is built for 3 platforms – 1. Web 2. Android 3. iOS I am responsible for development of web platform. This application is built in angular. This application is used by 2 kinds of person, or this application have 2 modes – 1. Insured 2. Inspector Insured: The person who is owner of damage vehicle. He must upload photo of damage vehicle then we sent image of vehicle to Python API for AI Processing to detect actual damage. And then he needs to fill different information about vehicle like VIN number, Odometer reading etc at last user need to sign the form through digital signature to claim insurance Inspector: This is a person who is authorized person from insurance company. And from this mode he can claim insurance for multiple customers with same process mention above.",
+      "roleAndContribution": "Daily Stand-up calls with client, explaining developed functionalities, understanding complex bugs, plans and tasks, Involved in development of IRM HTML with functionality using angular with attractive UI, Developed image upload functionality, Developed of integrating web forms in iOS and Android, Involved in development of forms with validation, Handling HTTP based REST API request and response, Actively involved in status meeting and project grooming, among team members and product owner to reach out the quality standards on regular intervals and project deadlines."
+    },
+    {
+      "projectName": "United Layer Domain",
+      "startDate": "May 2017",
+      "endDate": "Nov 2017",
+      "teamSize": 2,
+      "technologiesAndTools": "AngularJs, HTML, Bootstrap, and CSS",
+      "projectDescription": "This is a web based single page of glass for customers to execute all vital functions for cloud delivery from infrastructure provisioning to application releases including monitoring, management and support.",
+      "roleAndContribution": "Weekly Stand-up calls with client, explaining developed functionalities, understanding complex bugs, plans and tasks, Involved in HTML with functionality using Angular with an attractive UI."
+    },
+    {
+      "projectName": "Activity – e-Learning",
+      "startDate": "July 2015",
+      "endDate": "Feb 2017",
+      "teamSize": 20,
+      "technologiesAndTools": "Angular JS, JavaScript, JQuery, HTML5 and CSS3",
+      "projectDescription": "This is an application of next generation of learning for age group five through 18 which helps students to enjoy mathematics and achieve outstanding result. It contains more than 1000 learning activities. Students instantly get to their result. It allows students to improve their learning at their own pace. It also provides step-by-step animated support which resembles like having a teacher 24 hours a day. Through reports it gives the strength and weakness of students.",
+      "roleAndContribution": "Developed many activities using references, Used raphealJS, lodash to achieve some task, Implemented services, components, directive."
+      
+    }
+  ],
+  "awards":[
+    {
+      "awardName": "Distinguished Contributor",
+      "relatedCompanyName": "Harbinger Group",
+      "year":"2020",
+      "description":"Awared for the Leadr project as a Distinguished Contributor.",
+      "role": "Senior Frontend Developer",
+      "logo": "../../assets/images/Awards-2.png"
+    },
+    {
+      "awardName": "Most Challenging Project Award",
+      "relatedCompanyName": "Harbinger Group",
+      "year":"2019",
+      "description":"Awared for the Cisive project as a Most Challenging Project.",
+      "role": "Senior Frontend Developer",
+      "logo": "../../assets/images/Awards-2.png"
+    }
+  ],
+  "references": [
+    {
+      "img": "../../assets/images/SuccessFactors_ People Profile_2.png"
+    },
+    {
+      "img": "./../assets/images/SuccessFactors_ People Profile_6.png"
+    },
+    {
+      "img": "../../assets/images/HSPL_Distinguished_Contributors.png"
+    },
+    {
+      "img": "../../assets/images/SuccessFactors_ People Profile_3.png"
+    },
+    {
+      "img": "./../assets/images/SuccessFactors_ People Profile_4.png"
+    },
+    {
+      "img": "./../assets/images/SuccessFactors_ People Profile_7.png"
+    },
+    {
+      "img": "./../assets/images/SuccessFactors_ People Profile_9.png"
+    },
+    {
+      "img": "./../assets/images/SuccessFactors_ People Profile_10.png"
+    },
+    {
+      "img": "./../assets/images/SuccessFactors_ People Profile_5.png"
+    },
+    {
+      "img": "../../assets/images/SuccessFactors_ People Profile_1.png"
+    }
+
+  ]
+}

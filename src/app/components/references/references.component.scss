@@ -1,0 +1,23 @@
+// .reference-container{
+//     // display: flex;
+//     margin-top: 64px;
+//     // flex-wrap: wrap;
+//     // width: 100%;
+// }
+
+.reference-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 10px;
+    // height: calc(100vh - 118px);
+}
+
+.img{
+    max-width: 950%;
+    height: 300px;
+}
+
+.e-btn-icon{
+    color: #673AB7 !important;
+}

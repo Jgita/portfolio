@@ -1,0 +1,32 @@
+ul {
+    line-height: 1.5rem;
+}
+
+// .project-container{
+//     display: flex;
+//     margin-top: 64px;
+//     flex-wrap: wrap;
+//     width: 100%;
+// }
+
+.project-container{
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+  .card-header{
+    display: flex;
+  }
+
+  .mat-card-subtitle {
+    color: #3f0e92;
+}
+
+.card-content{
+  margin-left: 9px;
+  color: gray;
+}
+b{
+  color: #3f0e92;
+}

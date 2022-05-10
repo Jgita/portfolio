@@ -1,0 +1,17 @@
+<div class="common-card-container">
+    <mat-card [ngClass]="{'small-card': size === 'small', 'medium-card': size === 'medium',
+      'large-card': size === 'large'}">
+    <mat-card-header>
+        <ng-content select="[card-header]"></ng-content>
+    </mat-card-header>
+    <mat-card-content>
+        <ng-content select="[card-content]"></ng-content>
+    </mat-card-content>
+    <div>
+      <mat-divider inset></mat-divider>
+    </div>
+    <mat-card-footer>
+        <ng-content select="[card-footer]"></ng-content>
+    </mat-card-footer>
+    </mat-card>
+</div>

@@ -1,0 +1,79 @@
+<!-- <div class="experience-container">
+    <div *ngFor="let item of experience">
+        <app-common-card [size]="'medium'">
+            <ng-container card-header>
+                <div mat-card-avatar [ngStyle]="{backgroundImage: 'url(' + item.logo + ')'}"
+                    class="example-header-image">
+                </div>
+                <div>
+                    <mat-card-title>{{item.companyName}}</mat-card-title>
+                    <mat-card-subtitle>{{item.companyRole}}</mat-card-subtitle>
+                </div>
+            </ng-container>
+            <ng-container card-content>
+            <div class="card-content">
+                <div>
+                    <ul *ngIf="item.technologies.length">
+                        <li>Technologies: {{getTechnologies(item.technologies)}}</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul *ngIf="item?.description">
+                        <li>{{item?.description || '-'}}</li>
+                    </ul>
+                </div>
+            </div>
+            </ng-container>
+            <ng-container card-footer>
+                <div class="footer">
+                    <div>
+                        <mat-icon>calendar_today</mat-icon>
+                    </div>
+                    <div class="date">
+                        <p>{{item.startDate}} | {{item.location}}</p>
+                    </div>
+                </div>
+            </ng-container>
+        </app-common-card>
+    </div>
+</div> -->
+
+<div class="experience-container">
+    <div *ngFor="let item of experience">
+        <app-common-card [size]="'medium'">
+            <ng-container card-header>
+                <div mat-card-avatar  class="example-header-image" [ngStyle]="{backgroundImage: 'url(' + item.logo + ')'}"
+                    >
+                </div>
+                <div>
+                    <mat-card-title>{{item.companyName}}</mat-card-title>
+                    <mat-card-subtitle>{{item.companyRole}}</mat-card-subtitle>
+                </div>
+            </ng-container>
+            <ng-container card-content>
+            <div class="card-content">
+                <div>
+                    <ul *ngIf="item.technologies.length">
+                        <li>Technologies: {{getTechnologies(item.technologies)}}</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul *ngIf="item?.description">
+                        <li>{{item?.description || '-'}}</li>
+                    </ul>
+                </div>
+            </div>
+            </ng-container>
+            <ng-container card-footer>
+                <div class="footer">
+                    <div>
+                        <mat-icon>calendar_today</mat-icon>
+                    </div>
+                    <div class="date">
+                        <p>{{item.startDate}} | {{item.location}}</p>
+                    </div>
+                </div>
+            </ng-container>
+        </app-common-card>
+    </div>
+</div>

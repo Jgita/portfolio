@@ -1,0 +1,49 @@
+<!-- <div class="project-container">
+    <div *ngFor="let item of projects">
+        <app-common-card [size]="'large'">
+            <div card-header>
+                <mat-card-title>{{item.projectName}}</mat-card-title>
+                <mat-card-subtitle>{{item.startDate}} - {{item.endDate}}</mat-card-subtitle>
+            </div>
+            <div card-content>
+                <div>
+                    <ul>
+                        <li><b> Technologies & Tools: </b> {{item.technologiesAndTools}}</li>
+                        <li><b>Team Size: </b>{{item.teamSize}}</li>
+                        <li><b>Description: </b>{{item.projectDescription}}</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li><b>Role & Contribution: </b>{{item.roleAndContribution}}</li>
+                    </ul>
+                </div>
+            </div>
+        </app-common-card>
+    </div>
+</div> -->
+
+<div class="project-container">
+    <div *ngFor="let item of projects">
+        <app-common-card [size]="'large'">
+            <div card-header>
+                <mat-card-title>{{item.projectName}}</mat-card-title>
+                <mat-card-subtitle>{{item.startDate}} - {{item.endDate}}</mat-card-subtitle>
+            </div>
+            <div card-content>
+                <div class="card-content">
+                    <ul>
+                        <li><b> Technologies & Tools: </b> {{item.technologiesAndTools}}</li>
+                        <li><b>Team Size: </b>{{item.teamSize}}</li>
+                        <li><b>Description: </b>{{item.projectDescription}}</li>
+                    </ul>
+                </div>
+                <div class="card-content">
+                    <ul>
+                        <li><b>Role & Contribution: </b>{{item.roleAndContribution}}</li>
+                    </ul>
+                </div>
+            </div>
+        </app-common-card>
+    </div>
+</div>
